@@ -38,6 +38,7 @@ You'll notice that this project contains two folders:
 	- **KNN.ipynb**: It builds the benchmark model
 	- **DeepLearning.ipynb**: It builds the first deep learning architecture.
 	- **DeepLearning-CNN.ipynb**: It builds the second deep learning architecture.
+	- **models**: Folder that contains the deep learning models saved.
 
 #### Data
 

@@ -20,7 +20,7 @@ xpto@bar:~$ pip install -r requirements.txt
 ### Running
 
 In order to run the script, you just need to pass the profile name (-p) and the amount of photos (-a)
-to be downloaded. The script will create a folder called named by the instagram profile name passed and save all photos in it. See the example below:
+to be downloaded. The script will create a folder named by the instagram profile name passed and save all photos in it. See the example below:
 
 ```console
 xpto@bar:~$ python crawler.py -p beaches_n_resorts -a 4

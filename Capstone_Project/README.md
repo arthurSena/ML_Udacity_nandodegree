@@ -34,7 +34,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 You'll notice that this project contains two folders:
 
 - Data: It contains all the data used to build the models and also a python script that was used to download this data.
-- Source: It contains all the code resposible for building and evaluating the models. In here, you'll find the below notebooks:
+- Source: It contains all the code responsible for building and evaluating the models. In here, you'll find the below notebooks:
 	- **KNN.ipynb**: It builds the benchmark model
 	- **DeepLearning.ipynb**: It builds the first deep learning architecture.
 	- **DeepLearning-CNN.ipynb**: It builds the second deep learning architecture.
